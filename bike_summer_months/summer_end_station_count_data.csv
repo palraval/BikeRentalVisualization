@@ -1,0 +1,792 @@
+,end_station_name,end station popularity,data info
+0,1 Ave & E 62 St,1,2023-06-01
+1,10 Ave & W 14 St,3,2023-06-01
+2,11 Ave & W 27 St,1,2023-06-01
+3,11 St & Washington St,1789,2023-06-01
+4,12 Ave & W 40 St,7,2023-06-01
+5,12 St & Sinatra Dr N,2182,2023-06-01
+6,14 St Ferry - 14 St & Shipyard Ln,1927,2023-06-01
+7,2 Ave & E 72 St,1,2023-06-01
+8,2 St & Park Ave,938,2023-06-01
+9,27 Ave & 3 St,1,2023-06-01
+10,35 St & 34 Ave,1,2023-06-01
+11,4 St & Grand St,919,2023-06-01
+12,5 Ave & E 72 St,1,2023-06-01
+13,5 Ave & E 87 St,1,2023-06-01
+14,5 Ave & E 93 St,1,2023-06-01
+15,5 Corners Library,289,2023-06-01
+16,6 Ave & Broome St,2,2023-06-01
+17,6 Ave & Canal St,1,2023-06-01
+18,6 Ave & W 33 St,1,2023-06-01
+19,6 Ave & Walker St,4,2023-06-01
+20,6 St & Grand St,805,2023-06-01
+21,7 St & Monroe St,1175,2023-06-01
+22,8 Ave & W 16 St,1,2023-06-01
+23,8 Ave & W 33 St,1,2023-06-01
+24,8 Ave & W 49 St,3,2023-06-01
+25,8 St & Washington St,1454,2023-06-01
+26,9 St HBLR - Jackson St & 8 St,1263,2023-06-01
+27,Adams St & 11 St,601,2023-06-01
+28,Adams St & 2 St,1145,2023-06-01
+29,Astor Place,342,2023-06-01
+30,Ave C & E 16 St,1,2023-06-01
+31,Avenue D & E 10 St,1,2023-06-01
+32,Avenue D & E 3 St,1,2023-06-01
+33,Baldwin at Montgomery,696,2023-06-01
+34,Barclay St & Church St,2,2023-06-01
+35,Bayard St & Baxter St,1,2023-06-01
+36,Bergen Ave,465,2023-06-01
+37,Bergen Ave & Sip Ave,1423,2023-06-01
+38,Bergen Ave & Stegman St,110,2023-06-01
+39,Bleecker St & Crosby St,1,2023-06-01
+40,Bloomfield St & 15 St,1120,2023-06-01
+41,Broadway & Morris St,1,2023-06-01
+42,Broadway & W 168 St,2,2023-06-01
+43,Broadway & W 38 St,1,2023-06-01
+44,Broadway & W 41 St,1,2023-06-01
+45,Broadway & W 56 St,7,2023-06-01
+46,Broadway & W 58 St,1,2023-06-01
+47,Brunswick & 6th,975,2023-06-01
+48,Brunswick St,898,2023-06-01
+49,Canal St & Rutgers St,1,2023-06-01
+50,Carmine St & 6 Ave,1,2023-06-01
+51,Catherine St & Monroe St,1,2023-06-01
+52,Central Park West & W 68 St,1,2023-06-01
+53,Christ Hospital,405,2023-06-01
+54,Christopher St & Greenwich St,2,2023-06-01
+55,Church Sq Park - 5 St & Park Ave,1159,2023-06-01
+56,City Hall,1695,2023-06-01
+57,City Hall - Washington St & 1 St,2464,2023-06-01
+58,Cliff St & Fulton St,1,2023-06-01
+59,Clinton Ave & Myrtle Ave,1,2023-06-01
+60,Clinton St & 7 St,1354,2023-06-01
+61,Clinton St & Newark St,1254,2023-06-01
+62,Columbus Drive,1405,2023-06-01
+63,Columbus Park - Clinton St & 9 St,1580,2023-06-01
+64,Communipaw & Berry Lane,445,2023-06-01
+65,Dey St,227,2023-06-01
+66,Division St & Bowery,1,2023-06-01
+67,Dixon Mills,736,2023-06-01
+68,E 10 St & Avenue A,1,2023-06-01
+69,E 11 St & 1 Ave,1,2023-06-01
+70,E 13 St & 2 Ave,1,2023-06-01
+71,E 17 St & Broadway,1,2023-06-01
+72,E 2 St & Avenue A,1,2023-06-01
+73,E 25 St & 2 Ave,1,2023-06-01
+74,E 39 St & Lexington Ave,1,2023-06-01
+75,E 4 St & 2 Ave,1,2023-06-01
+76,E 40 St & Park Ave,3,2023-06-01
+77,E 43 St & Madison Ave,2,2023-06-01
+78,E 5 St & Cooper Sq,3,2023-06-01
+79,E 51 St & Lexington Ave,1,2023-06-01
+80,E 53 St & Lexington Ave,2,2023-06-01
+81,E 53 St & Madison Ave,1,2023-06-01
+82,E 65 St & 2 Ave,1,2023-06-01
+83,E 82 St & East End Ave,1,2023-06-01
+84,E 84 St & 1 Ave,1,2023-06-01
+85,E 85 St & 3 Ave,1,2023-06-01
+86,E 88 St & 1 Ave,1,2023-06-01
+87,E 9 St & Avenue C,1,2023-06-01
+88,E 97 St & 3 Ave,1,2023-06-01
+89,Essex Light Rail,594,2023-06-01
+90,Exchange Pl,1785,2023-06-01
+91,Fairmount Ave,434,2023-06-01
+92,Fulton St & Broadway,2,2023-06-01
+93,Gansevoort St & Hudson St,1,2023-06-01
+94,Glenwood Ave,214,2023-06-01
+95,Grand Concourse & E 164 St,1,2023-06-01
+96,Grand St,1101,2023-06-01
+97,Grand St & 14 St,1431,2023-06-01
+98,Grand St & Greene St,1,2023-06-01
+99,Grant Ave & MLK Dr,46,2023-06-01
+100,Greene Ave & Nostrand Ave,1,2023-06-01
+101,Greene St & Prince St,1,2023-06-01
+102,Greenwich St & Hubert St,11,2023-06-01
+103,Greenwich St & Perry St,1,2023-06-01
+104,Greenwich St & Rector St,1,2023-06-01
+105,Grove St PATH,5293,2023-06-01
+106,Hamilton Park,2257,2023-06-01
+107,Harborside,1605,2023-06-01
+108,Heights Elevator,420,2023-06-01
+109,Henry St & Grand St,1,2023-06-01
+110,Hilltop,499,2023-06-01
+111,Hoboken Ave at Monmouth St,1873,2023-06-01
+112,Hoboken Terminal - Hudson St & Hudson Pl,2661,2023-06-01
+113,Hoboken Terminal - River St & Hudson Pl,3857,2023-06-01
+114,Hudson St & 4 St,1666,2023-06-01
+115,Hudson St & Reade St,3,2023-06-01
+116,Hudson St & W 13 St,2,2023-06-01
+117,JC Medical Center,1269,2023-06-01
+118,Jackson Square,158,2023-06-01
+119,Jersey & 3rd,884,2023-06-01
+120,Jersey & 6th St,567,2023-06-01
+121,Journal Square,754,2023-06-01
+122,Lafayette Park,798,2023-06-01
+123,Lafayette St & Grand St,1,2023-06-01
+124,Lafayette St & Jersey St,6,2023-06-01
+125,Leonard Gordon Park,431,2023-06-01
+126,Lewis Ave & Kosciuszko St,1,2023-06-01
+127,Liberty Light Rail,1585,2023-06-01
+128,Lincoln Park,498,2023-06-01
+129,Lispenard St & Broadway,1,2023-06-01
+130,Madison Av & E 51 St,1,2023-06-01
+131,Madison Ave & E 26 St,1,2023-06-01
+132,Madison Ave & E 99 St,1,2023-06-01
+133,Madison St & 1 St,1270,2023-06-01
+134,Madison St & 10 St,1003,2023-06-01
+135,Maiden Ln & Pearl St,3,2023-06-01
+136,Main St & Plymouth St,1,2023-06-01
+137,Mama Johnson Field - 4 St & Jackson St,626,2023-06-01
+138,Manila & 1st,1259,2023-06-01
+139,Marin Light Rail,1877,2023-06-01
+140,Market St & Cherry St,1,2023-06-01
+141,Marshall St & 2 St,1178,2023-06-01
+142,McGinley Square,648,2023-06-01
+143,Mercer St & Spring St,1,2023-06-01
+144,Monmouth and 6th,661,2023-06-01
+145,Montgomery St,655,2023-06-01
+146,Morgan Loading Docks,1,2023-06-01
+147,Morris Canal,1117,2023-06-01
+148,Mott St & Prince St,1,2023-06-01
+149,Murray St & West St,2,2023-06-01
+150,N Moore St & Hudson St,1,2023-06-01
+151,Newark Ave,1471,2023-06-01
+152,Newport PATH,2492,2023-06-01
+153,Newport Pkwy,2177,2023-06-01
+154,Norfolk St & Broome St,1,2023-06-01
+155,North Moore St & Greenwich St,11,2023-06-01
+156,Oakland Ave,465,2023-06-01
+157,Orchard St & Grand St,1,2023-06-01
+158,Paulus Hook,1073,2023-06-01
+159,Pearl St & Hanover Square,1,2023-06-01
+160,Perry St & Greenwich Ave,1,2023-06-01
+161,Pershing Field,600,2023-06-01
+162,Pier 40 - Hudson River Park,4,2023-06-01
+163,Pike St & Monroe St,1,2023-06-01
+164,Putnam Ave & Knickerbocker Ave,1,2023-06-01
+165,Queens Plaza North & Crescent St,1,2023-06-01
+166,River Ter & Warren St,3,2023-06-01
+167,Riverview Park,658,2023-06-01
+168,S 4 St & Roebling St,1,2023-06-01
+169,Sands St Gate,2,2023-06-01
+170,Sherman Ave & Thayer St,1,2023-06-01
+171,South St & Gouverneur Ln,3,2023-06-01
+172,South St & Whitehall St,2,2023-06-01
+173,South Waterfront Walkway - Sinatra Dr & 1 St,3482,2023-06-01
+174,Southwest Park - Jackson St & Observer Hwy,1278,2023-06-01
+175,St Marks Pl & 1 Ave,1,2023-06-01
+176,Stevens - River Ter & 6 St,739,2023-06-01
+177,Stockholm St & Wilson Ave,1,2023-06-01
+178,Sullivan St & Washington Sq,1,2023-06-01
+179,Tompkins Ave & Hopkins St,1,2023-06-01
+180,Union St,170,2023-06-01
+181,University Pl & E 14 St,2,2023-06-01
+182,University Pl & E 8 St,1,2023-06-01
+183,Van Vorst Park,1237,2023-06-01
+184,Vesey Pl & River Terrace,9,2023-06-01
+185,Vesey St & Church St,2,2023-06-01
+186,W 106 St & Amsterdam Ave,1,2023-06-01
+187,W 11 St & 6 Ave,1,2023-06-01
+188,W 170 St & University Ave,1,2023-06-01
+189,W 20 St & 7 Ave,1,2023-06-01
+190,W 22 St & 10 Ave,2,2023-06-01
+191,W 24 St & 7 Ave,2,2023-06-01
+192,W 25 St & 9 Ave,1,2023-06-01
+193,W 30 St & 10 Ave,8,2023-06-01
+194,W 33 St & 10 Ave,1,2023-06-01
+195,W 34 St & 11 Ave,6,2023-06-01
+196,W 34 St & Hudson Blvd E,2,2023-06-01
+197,W 37 St & 10 Ave,2,2023-06-01
+198,W 44 St & 11 Ave,1,2023-06-01
+199,W 44 St & 5 Ave,1,2023-06-01
+200,W 45 St & 8 Ave,1,2023-06-01
+201,W 46 St & 11 Ave,1,2023-06-01
+202,W 67 St & Broadway,1,2023-06-01
+203,W Broadway & Spring St,1,2023-06-01
+204,Warren St,1424,2023-06-01
+205,Washington St,1483,2023-06-01
+206,Washington St & Laight St,1,2023-06-01
+207,Water St &  Fletcher St,1,2023-06-01
+208,Water St & Gouverneur Ln,1,2023-06-01
+209,West St & Chambers St,1,2023-06-01
+210,West St & Liberty St,2,2023-06-01
+211,Willow Ave & 12 St,1000,2023-06-01
+212,York St & Marin Blvd,471,2023-06-01
+0,10 Ave & W 14 St,1,2023-07-01
+1,11 Ave & W 41 St,1,2023-07-01
+2,11 St & Washington St,2018,2023-07-01
+3,12 Ave & W 40 St,3,2023-07-01
+4,12 St & Sinatra Dr N,3335,2023-07-01
+5,14 St Ferry - 14 St & Shipyard Ln,388,2023-07-01
+6,2 St & Park Ave,910,2023-07-01
+7,3 Ave & E 71 St,1,2023-07-01
+8,31 St & Ditmars Blvd,1,2023-07-01
+9,4 St & Grand St,1184,2023-07-01
+10,5 Ave & E 72 St,1,2023-07-01
+11,5 Ave & E 87 St,2,2023-07-01
+12,5 Corners Library,314,2023-07-01
+13,6 Ave & Broome St,1,2023-07-01
+14,6 Ave & Canal St,2,2023-07-01
+15,6 Ave & W 34 St,1,2023-07-01
+16,6 Ave & Walker St,5,2023-07-01
+17,6 St & Grand St,1023,2023-07-01
+18,7 St & Monroe St,1264,2023-07-01
+19,8 St & Washington St,1656,2023-07-01
+20,9 Ave & W 45 St,1,2023-07-01
+21,9 St HBLR - Jackson St & 8 St,1419,2023-07-01
+22,Adams St & 11 St,692,2023-07-01
+23,Adams St & 2 St,1229,2023-07-01
+24,Albany St & Greenwich St,1,2023-07-01
+25,Astor Place,414,2023-07-01
+26,Baldwin at Montgomery,924,2023-07-01
+27,Bergen Ave,549,2023-07-01
+28,Bergen Ave & Sip Ave,2022,2023-07-01
+29,Bergen Ave & Stegman St,189,2023-07-01
+30,Bleecker St & Crosby St,5,2023-07-01
+31,Bloomfield St & 15 St,1791,2023-07-01
+32,Broad St & Bridge St,1,2023-07-01
+33,Broadway & Battery Pl,1,2023-07-01
+34,Broadway & E 21 St,2,2023-07-01
+35,Broadway & Morris St,1,2023-07-01
+36,Broadway & W 41 St,1,2023-07-01
+37,Brunswick & 6th,884,2023-07-01
+38,Brunswick St,995,2023-07-01
+39,Canal St & Rutgers St,1,2023-07-01
+40,Carmine St & 6 Ave,2,2023-07-01
+41,Catherine St & Monroe St,1,2023-07-01
+42,Christ Hospital,534,2023-07-01
+43,Christopher St & Greenwich St,4,2023-07-01
+44,Church Sq Park - 5 St & Park Ave,1398,2023-07-01
+45,City Hall,1725,2023-07-01
+46,City Hall - Washington St & 1 St,2683,2023-07-01
+47,Cliff St & Fulton St,2,2023-07-01
+48,Clinton St & 7 St,1528,2023-07-01
+49,Clinton St & Cherry St,1,2023-07-01
+50,Clinton St & Newark St,1389,2023-07-01
+51,Columbus Ave & W 72 St,1,2023-07-01
+52,Columbus Drive,1558,2023-07-01
+53,Columbus Park - Clinton St & 9 St,1701,2023-07-01
+54,Communipaw & Berry Lane,518,2023-07-01
+55,Dey St,277,2023-07-01
+56,Dixon Mills,741,2023-07-01
+57,Duane St & Hudson St,1,2023-07-01
+58,E 11 St & Avenue B,1,2023-07-01
+59,E 14 St & 1 Ave,1,2023-07-01
+60,E 16 St & 5 Ave,1,2023-07-01
+61,E 161 St & River Ave,1,2023-07-01
+62,E 17 St & Broadway,1,2023-07-01
+63,E 20 St & 2 Ave,1,2023-07-01
+64,E 32 St & Park Ave,1,2023-07-01
+65,E 33 St & 1 Ave,1,2023-07-01
+66,E 39 St & 2 Ave,1,2023-07-01
+67,E 4 St & 2 Ave,1,2023-07-01
+68,E 40 St & Park Ave,1,2023-07-01
+69,E 43 St & Madison Ave,1,2023-07-01
+70,E 48 St & 3 Ave,1,2023-07-01
+71,E 5 St & Cooper Sq,4,2023-07-01
+72,E 51 St & Lexington Ave,2,2023-07-01
+73,E 53 St & Madison Ave,1,2023-07-01
+74,E 56 St & Madison Ave,1,2023-07-01
+75,E 95 St & 3 Ave,1,2023-07-01
+76,Essex Light Rail,601,2023-07-01
+77,Exchange Pl,1734,2023-07-01
+78,FDR Drive & E 35 St,1,2023-07-01
+79,Fairmount Ave,524,2023-07-01
+80,Fulton St & Broadway,5,2023-07-01
+81,Glenwood Ave,335,2023-07-01
+82,Grand Concourse & E 192 St,1,2023-07-01
+83,Grand St,1142,2023-07-01
+84,Grand St & 14 St,1464,2023-07-01
+85,Grant Ave & MLK Dr,106,2023-07-01
+86,Greenwich Ave & Charles St,1,2023-07-01
+87,Greenwich St & Hubert St,17,2023-07-01
+88,Greenwich St & Rector St,1,2023-07-01
+89,Greenwich St & W Houston St,4,2023-07-01
+90,Grove St PATH,5523,2023-07-01
+91,Hamilton Park,2337,2023-07-01
+92,Harborside,1887,2023-07-01
+93,Heights Elevator,494,2023-07-01
+94,Hilltop,576,2023-07-01
+95,Hoboken Ave at Monmouth St,1869,2023-07-01
+96,Hoboken Terminal - Hudson St & Hudson Pl,2739,2023-07-01
+97,Hoboken Terminal - River St & Hudson Pl,4267,2023-07-01
+98,Hudson Blvd W & W 36 St,3,2023-07-01
+99,Hudson St & 4 St,1877,2023-07-01
+100,Hudson St & W 13 St,1,2023-07-01
+101,JC Medical Center,1419,2023-07-01
+102,Jackson Square,190,2023-07-01
+103,Jersey & 3rd,948,2023-07-01
+104,Jersey & 6th St,613,2023-07-01
+105,Journal Square,575,2023-07-01
+106,Lafayette Park,924,2023-07-01
+107,Lafayette St & Jersey St,12,2023-07-01
+108,Laight St & Hudson St,1,2023-07-01
+109,Leonard Gordon Park,511,2023-07-01
+110,Leonard St & Church St,3,2023-07-01
+111,Liberty Light Rail,1812,2023-07-01
+112,Liberty St & Broadway,1,2023-07-01
+113,Lincoln Park,570,2023-07-01
+114,Little West St & 1 Pl,1,2023-07-01
+115,MacDougal St & Washington Sq,1,2023-07-01
+116,Madison Av & E 51 St,3,2023-07-01
+117,Madison Ave & E 26 St,1,2023-07-01
+118,Madison St & 1 St,1649,2023-07-01
+119,Madison St & 10 St,1067,2023-07-01
+120,Maiden Ln & Pearl St,12,2023-07-01
+121,Mama Johnson Field - 4 St & Jackson St,824,2023-07-01
+122,Manila & 1st,1274,2023-07-01
+123,Marin Light Rail,2126,2023-07-01
+124,Marshall St & 2 St,1339,2023-07-01
+125,McGinley Square,807,2023-07-01
+126,Mercer St & Spring St,4,2023-07-01
+127,Monmouth and 6th,696,2023-07-01
+128,Montague St & Clinton St,1,2023-07-01
+129,Montgomery St,682,2023-07-01
+130,Morris Canal,1107,2023-07-01
+131,Murray St & West St,1,2023-07-01
+132,N 12 St & Bedford Ave,1,2023-07-01
+133,Nagle Ave & Thayer St,1,2023-07-01
+134,Newark Ave,1523,2023-07-01
+135,Newport PATH,2797,2023-07-01
+136,Newport Pkwy,2342,2023-07-01
+137,North Moore St & Greenwich St,4,2023-07-01
+138,Oakland Ave,593,2023-07-01
+139,Paulus Hook,1231,2023-07-01
+140,Pearl St & Hanover Square,1,2023-07-01
+141,Pershing Field,619,2023-07-01
+142,Pier 40 - Hudson River Park,1,2023-07-01
+143,River Ter & Warren St,2,2023-07-01
+144,Riverside Dr & W 91 St,1,2023-07-01
+145,Riverview Park,689,2023-07-01
+146,S 4 St & Roebling St,2,2023-07-01
+147,South End Ave & Albany St,3,2023-07-01
+148,South St & Gouverneur Ln,1,2023-07-01
+149,South Waterfront Walkway - Sinatra Dr & 1 St,3913,2023-07-01
+150,Southwest Park - Jackson St & Observer Hwy,1496,2023-07-01
+151,Spring St & Hudson St,1,2023-07-01
+152,Stagg St & Union Ave,2,2023-07-01
+153,Stanton St & Norfolk St,1,2023-07-01
+154,Stevens - River Ter & 6 St,874,2023-07-01
+155,Union St,218,2023-07-01
+156,University Pl & E 14 St,2,2023-07-01
+157,Van Vorst Park,1149,2023-07-01
+158,Vesey Pl & River Terrace,18,2023-07-01
+159,W 110 St & Amsterdam Ave,1,2023-07-01
+160,W 16 St & The High Line,1,2023-07-01
+161,W 180 St & Ft Washington Ave,5,2023-07-01
+162,W 181 St & Riverside Dr,1,2023-07-01
+163,W 20 St & 5 Ave,1,2023-07-01
+164,W 21 St & 6 Ave,1,2023-07-01
+165,W 30 St & 10 Ave,9,2023-07-01
+166,W 33 St & 10 Ave,1,2023-07-01
+167,W 34 St & 11 Ave,4,2023-07-01
+168,W 35 St & 9 Ave,1,2023-07-01
+169,W 41 St & 8 Ave,1,2023-07-01
+170,W 43 St & 10 Ave,2,2023-07-01
+171,W 44 St & 11 Ave,1,2023-07-01
+172,W 44 St & 5 Ave,2,2023-07-01
+173,W 45 St & 8 Ave,1,2023-07-01
+174,W 47 St & 10 Ave,1,2023-07-01
+175,W 52 St & 5 Ave,1,2023-07-01
+176,W 52 St & 6 Ave,1,2023-07-01
+177,W 63 St & Broadway,1,2023-07-01
+178,W 89 St & Columbus Ave,1,2023-07-01
+179,Walker St & Baxter St,1,2023-07-01
+180,Warren St,1739,2023-07-01
+181,Warren St & W Broadway,1,2023-07-01
+182,Washington St,1344,2023-07-01
+183,Washington St & Laight St,2,2023-07-01
+184,Water St &  Fletcher St,2,2023-07-01
+185,Water St & Gouverneur Ln,3,2023-07-01
+186,Watts St & Greenwich St,1,2023-07-01
+187,West St & Chambers St,5,2023-07-01
+188,West St & Liberty St,4,2023-07-01
+189,Willow Ave & 12 St,1161,2023-07-01
+190,York St & Marin Blvd,429,2023-07-01
+0,1 Ave & E 6 St,1,2023-08-01
+1,10 Ave & W 28 St,1,2023-08-01
+2,11 St & Washington St,2016,2023-08-01
+3,12 Ave & W 40 St,5,2023-08-01
+4,12 St & Sinatra Dr N,2658,2023-08-01
+5,14 St Ferry - 14 St & Shipyard Ln,1797,2023-08-01
+6,2 St & Park Ave,1088,2023-08-01
+7,3 Ave & E 71 St,1,2023-08-01
+8,37 St & 24 Ave,1,2023-08-01
+9,4 St & Grand St,1385,2023-08-01
+10,5 Corners Library,301,2023-08-01
+11,6 Ave & Broome St,1,2023-08-01
+12,6 Ave & Canal St,1,2023-08-01
+13,6 Ave & W 33 St,1,2023-08-01
+14,6 Ave & Walker St,3,2023-08-01
+15,6 St & Grand St,1050,2023-08-01
+16,7 St & 5 Ave,1,2023-08-01
+17,7 St & Monroe St,1428,2023-08-01
+18,77 St & 31 Ave,2,2023-08-01
+19,8 Ave & W 16 St,1,2023-08-01
+20,8 Ave & W 33 St,2,2023-08-01
+21,8 St & Washington St,1869,2023-08-01
+22,9 St HBLR - Jackson St & 8 St,1424,2023-08-01
+23,Adams St & 11 St,669,2023-08-01
+24,Adams St & 2 St,1213,2023-08-01
+25,Amsterdam Ave & W 180 St,1,2023-08-01
+26,Astor Place,420,2023-08-01
+27,Atlantic Ave & Furman St,1,2023-08-01
+28,Baldwin at Montgomery,932,2023-08-01
+29,Barclay St & Church St,1,2023-08-01
+30,Bergen Ave,568,2023-08-01
+31,Bergen Ave & Sip Ave,2085,2023-08-01
+32,Bergen Ave & Stegman St,174,2023-08-01
+33,Bloomfield St & 15 St,1480,2023-08-01
+34,Broadway & E 21 St,1,2023-08-01
+35,Broadway & Kent Ave,1,2023-08-01
+36,Broadway & Madison St,1,2023-08-01
+37,Broadway & W 155 St,1,2023-08-01
+38,Broadway & W 41 St,1,2023-08-01
+39,Brunswick & 6th,1060,2023-08-01
+40,Brunswick St,1124,2023-08-01
+41,Central Ave & Himrod St,1,2023-08-01
+42,Central Park W & W 91 St,1,2023-08-01
+43,Christ Hospital,539,2023-08-01
+44,Church Sq Park - 5 St & Park Ave,855,2023-08-01
+45,City Hall,1728,2023-08-01
+46,City Hall - Washington St & 1 St,2761,2023-08-01
+47,Cleveland Pl & Spring St,2,2023-08-01
+48,Clinton St & 7 St,1636,2023-08-01
+49,Clinton St & Newark St,1438,2023-08-01
+50,Columbus Ave & W 72 St,1,2023-08-01
+51,Columbus Drive,1567,2023-08-01
+52,Columbus Park - Clinton St & 9 St,1829,2023-08-01
+53,Communipaw & Berry Lane,554,2023-08-01
+54,Dey St,347,2023-08-01
+55,Dixon Mills,766,2023-08-01
+56,E 10 St & 2 Ave,1,2023-08-01
+57,E 17 St & Broadway,5,2023-08-01
+58,E 23 St & 1 Ave,1,2023-08-01
+59,E 32 St & Park Ave,1,2023-08-01
+60,E 39 St & 2 Ave,1,2023-08-01
+61,E 40 St & Park Ave,1,2023-08-01
+62,E 43 St & Madison Ave,2,2023-08-01
+63,E 47 St & 2 Ave,1,2023-08-01
+64,E 5 St & Cooper Sq,2,2023-08-01
+65,E 50 St & Park Ave,1,2023-08-01
+66,E 51 St & 2 Ave,1,2023-08-01
+67,E 51 St & Lexington Ave,1,2023-08-01
+68,E 56 St & 3 Ave,1,2023-08-01
+69,E 68 St & 3 Ave,2,2023-08-01
+70,Eastern Pkwy & Nostrand Ave,1,2023-08-01
+71,Eastern Pkwy & Schenectady Ave,1,2023-08-01
+72,Essex Light Rail,287,2023-08-01
+73,Exchange Pl,2092,2023-08-01
+74,Fairmount Ave,559,2023-08-01
+75,Franklin St & W Broadway,1,2023-08-01
+76,Frederick Douglass Blvd & W 112 St,1,2023-08-01
+77,Fulton St & Broadway,1,2023-08-01
+78,Fulton St & Irving Pl,1,2023-08-01
+79,Glenwood Ave,322,2023-08-01
+80,Graham Ave & Grand St,1,2023-08-01
+81,Grand St,1345,2023-08-01
+82,Grand St & 14 St,1412,2023-08-01
+83,Grant Ave & MLK Dr,64,2023-08-01
+84,Greene Ave & Throop Ave,1,2023-08-01
+85,Greenwich Ave & 8 Ave,1,2023-08-01
+86,Greenwich St & Hubert St,14,2023-08-01
+87,Greenwich St & Perry St,2,2023-08-01
+88,Greenwich St & Rector St,1,2023-08-01
+89,Greenwich St & W Houston St,3,2023-08-01
+90,Grove St PATH,5798,2023-08-01
+91,Halsey St & Tompkins Ave,1,2023-08-01
+92,Hamilton Park,2329,2023-08-01
+93,Harborside,1984,2023-08-01
+94,Heights Elevator,432,2023-08-01
+95,Hilltop,644,2023-08-01
+96,Hoboken Ave at Monmouth St,1811,2023-08-01
+97,Hoboken Terminal - Hudson St & Hudson Pl,2964,2023-08-01
+98,Hoboken Terminal - River St & Hudson Pl,3975,2023-08-01
+99,Howard St & Lafayette St,1,2023-08-01
+100,Hudson St & 4 St,2109,2023-08-01
+101,Hudson St & Reade St,1,2023-08-01
+102,JC Medical Center,1459,2023-08-01
+103,Jackson Square,198,2023-08-01
+104,Jersey & 3rd,918,2023-08-01
+105,Jersey & 6th St,610,2023-08-01
+106,John St & William St,1,2023-08-01
+107,Johnson St & Brooklyn Bridge Blvd,1,2023-08-01
+108,Journal Square,881,2023-08-01
+109,Kent Ave & N 7 St,1,2023-08-01
+110,Knickerbocker Ave & Thames St,1,2023-08-01
+111,Lafayette Park,916,2023-08-01
+112,Lafayette St & E 8 St,1,2023-08-01
+113,Lafayette St & Jersey St,8,2023-08-01
+114,Laight St & Hudson St,1,2023-08-01
+115,Leonard Gordon Park,483,2023-08-01
+116,Liberty Light Rail,1890,2023-08-01
+117,Liberty St & Broadway,1,2023-08-01
+118,Lincoln Park,593,2023-08-01
+119,MacDougal St & Prince St,1,2023-08-01
+120,Madison Av & E 51 St,1,2023-08-01
+121,Madison St & 1 St,1693,2023-08-01
+122,Madison St & 10 St,1264,2023-08-01
+123,Maiden Ln & Pearl St,10,2023-08-01
+124,Mama Johnson Field - 4 St & Jackson St,880,2023-08-01
+125,Manila & 1st,1370,2023-08-01
+126,Marin Light Rail,2205,2023-08-01
+127,Marshall St & 2 St,1544,2023-08-01
+128,McGinley Square,867,2023-08-01
+129,Mercer St & Bleecker St,1,2023-08-01
+130,Mercer St & Spring St,4,2023-08-01
+131,Monmouth and 6th,761,2023-08-01
+132,Montgomery St,740,2023-08-01
+133,Morris Canal,1363,2023-08-01
+134,Murray St & West St,1,2023-08-01
+135,N 5 St & Wythe Ave,1,2023-08-01
+136,Newark Ave,1640,2023-08-01
+137,Newport PATH,2951,2023-08-01
+138,Newport Pkwy,2456,2023-08-01
+139,Norfolk St & Broome St,1,2023-08-01
+140,North Moore St & Greenwich St,6,2023-08-01
+141,Oakland Ave,594,2023-08-01
+142,Orchard St & Grand St,3,2023-08-01
+143,Paulus Hook,1273,2023-08-01
+144,Pearl St & Hanover Square,3,2023-08-01
+145,Pershing Field,686,2023-08-01
+146,Pike St & E Broadway,1,2023-08-01
+147,River St & 1 St,574,2023-08-01
+148,River Ter & Warren St,1,2023-08-01
+149,Riverview Park,729,2023-08-01
+150,South Waterfront Walkway - Sinatra Dr & 1 St,3867,2023-08-01
+151,Southwest Park - Jackson St & Observer Hwy,1704,2023-08-01
+152,Spring St & Hudson St,4,2023-08-01
+153,Stagg St & Union Ave,1,2023-08-01
+154,Stanton St & Mangin St,1,2023-08-01
+155,Stevens - River Ter & 6 St,966,2023-08-01
+156,Union St,212,2023-08-01
+157,University Pl & E 14 St,2,2023-08-01
+158,Van Vorst Park,1172,2023-08-01
+159,Vesey Pl & River Terrace,9,2023-08-01
+160,Vesey St & Church St,4,2023-08-01
+161,W 107 St & Columbus Ave,1,2023-08-01
+162,W 15 St & 10 Ave,1,2023-08-01
+163,W 16 St & The High Line,4,2023-08-01
+164,W 180 St & Ft Washington Ave,1,2023-08-01
+165,W 21 St & 6 Ave,1,2023-08-01
+166,W 22 St & 10 Ave,3,2023-08-01
+167,W 30 St & 10 Ave,4,2023-08-01
+168,W 34 St & 11 Ave,1,2023-08-01
+169,W 34 St & Hudson Blvd E,1,2023-08-01
+170,W 35 St & 8 Ave,1,2023-08-01
+171,W 36 St & 9 Ave,1,2023-08-01
+172,W 37 St & 10 Ave,2,2023-08-01
+173,W 37 St & 5 Ave,1,2023-08-01
+174,W 42 St & 8 Ave,1,2023-08-01
+175,W 44 St & 5 Ave,6,2023-08-01
+176,W 52 St & 5 Ave,8,2023-08-01
+177,W 56 St & 8 Ave,2,2023-08-01
+178,W 67 St & Broadway,1,2023-08-01
+179,W 84 St & Columbus Ave,1,2023-08-01
+180,W 87 St & West End Ave,1,2023-08-01
+181,W 92 St & Broadway,1,2023-08-01
+182,Warren St,1728,2023-08-01
+183,Warren St & W Broadway,1,2023-08-01
+184,Washington Square E,1,2023-08-01
+185,Washington St,1651,2023-08-01
+186,Washington St & Gansevoort St,1,2023-08-01
+187,Washington St & Laight St,8,2023-08-01
+188,Water St &  Fletcher St,1,2023-08-01
+189,Water St & Gouverneur Ln,3,2023-08-01
+190,Watts St & Greenwich St,2,2023-08-01
+191,West Broadway & Watts St,2,2023-08-01
+192,West End Ave & W 60 St,2,2023-08-01
+193,West St & Chambers St,6,2023-08-01
+194,West Thames St,5,2023-08-01
+195,Willow Ave & 12 St,1311,2023-08-01
+196,York St & Marin Blvd,432,2023-08-01
+0,1 Ave & E 30 St,1,2023-09-01
+1,10 Ave & W 14 St,1,2023-09-01
+2,10 Ave & W 28 St,1,2023-09-01
+3,11 Ave & W 59 St,1,2023-09-01
+4,11 St & Washington St,1752,2023-09-01
+5,12 Ave & W 40 St,9,2023-09-01
+6,12 St & Sinatra Dr N,1816,2023-09-01
+7,14 St Ferry - 14 St & Shipyard Ln,1570,2023-09-01
+8,2 St & Park Ave,944,2023-09-01
+9,4 St & Grand St,1074,2023-09-01
+10,4 St & River St,757,2023-09-01
+11,5 Ave & E 72 St,1,2023-09-01
+12,5 Corners Library,269,2023-09-01
+13,6 Ave & 12 St,1,2023-09-01
+14,6 Ave & Canal St,2,2023-09-01
+15,6 Ave & W 33 St,1,2023-09-01
+16,6 Ave & Walker St,1,2023-09-01
+17,6 St & Grand St,918,2023-09-01
+18,7 Ave & Central Park South,3,2023-09-01
+19,7 Ave S & Bleecker St,1,2023-09-01
+20,7 St & Monroe St,1140,2023-09-01
+21,8 Ave & W 16 St,1,2023-09-01
+22,8 Ave & W 24 St,1,2023-09-01
+23,8 Ave & W 49 St,2,2023-09-01
+24,8 St & Washington St,1698,2023-09-01
+25,9 Ave & W 39 St,1,2023-09-01
+26,9 St HBLR - Jackson St & 8 St,1289,2023-09-01
+27,Adams St & 11 St,279,2023-09-01
+28,Adams St & 12 St,227,2023-09-01
+29,Adams St & 2 St,1186,2023-09-01
+30,Astor Place,338,2023-09-01
+31,Avenue D & E 12 St,1,2023-09-01
+32,Avenue D & E 3 St,1,2023-09-01
+33,Baldwin at Montgomery,781,2023-09-01
+34,Barclay St & Church St,1,2023-09-01
+35,Bergen Ave,487,2023-09-01
+36,Bergen Ave & Sip Ave,1889,2023-09-01
+37,Bergen Ave & Stegman St,130,2023-09-01
+38,Bergen St & Kingston Ave,1,2023-09-01
+39,Bleecker St & Crosby St,1,2023-09-01
+40,Bloomfield St & 15 St,1227,2023-09-01
+41,Broad St & Bridge St,1,2023-09-01
+42,Broadway & Morris St,1,2023-09-01
+43,Broadway & W 29 St,3,2023-09-01
+44,Broadway & W 53 St,2,2023-09-01
+45,Broadway & W 58 St,2,2023-09-01
+46,Brooklyn Bridge Park - Pier 2,2,2023-09-01
+47,Brunswick & 6th,801,2023-09-01
+48,Brunswick St,833,2023-09-01
+49,Bus Slip & State St,2,2023-09-01
+50,Carmine St & 6 Ave,1,2023-09-01
+51,Carroll St & Franklin Ave,1,2023-09-01
+52,Central Park S & 6 Ave,1,2023-09-01
+53,Centre St & Worth St,1,2023-09-01
+54,Christ Hospital,401,2023-09-01
+55,Church Sq Park - 5 St & Park Ave,735,2023-09-01
+56,City Hall,1446,2023-09-01
+57,City Hall - Washington St & 1 St,2396,2023-09-01
+58,Clinton St & 7 St,1660,2023-09-01
+59,Clinton St & Newark St,1119,2023-09-01
+60,Columbus Drive,1319,2023-09-01
+61,Columbus Park - Clinton St & 9 St,1697,2023-09-01
+62,Communipaw & Berry Lane,363,2023-09-01
+63,Congress St & Clinton St,1,2023-09-01
+64,Dey St,275,2023-09-01
+65,Dixon Mills,689,2023-09-01
+66,E 10 St & 2 Ave,1,2023-09-01
+67,E 14 St & 1 Ave,1,2023-09-01
+68,E 17 St & Broadway,1,2023-09-01
+69,E 22 St & 2 Ave,1,2023-09-01
+70,E 41 St & Madison Ave (SE corner),1,2023-09-01
+71,E 43 St & Madison Ave,2,2023-09-01
+72,E 44 St & Lexington Ave,1,2023-09-01
+73,E 47 St & Park Ave,1,2023-09-01
+74,E 48 St & 3 Ave,2,2023-09-01
+75,E 54 St & 1 Ave,1,2023-09-01
+76,E 68 St & 3 Ave,1,2023-09-01
+77,E 74 St & 1 Ave,1,2023-09-01
+78,E 77 St & 1 Ave,1,2023-09-01
+79,E 84 St & Park Ave,1,2023-09-01
+80,E 89 St & York Ave,1,2023-09-01
+81,E 91 St & 2 Ave,1,2023-09-01
+82,Essex Light Rail,584,2023-09-01
+83,Exchange Pl,1741,2023-09-01
+84,Fairmount Ave,415,2023-09-01
+85,Fulton St & Adams St,1,2023-09-01
+86,Fulton St & Broadway,5,2023-09-01
+87,Fulton St & William St,1,2023-09-01
+88,Glenwood Ave,375,2023-09-01
+89,Grand Ave & Bergen St,1,2023-09-01
+90,Grand St,836,2023-09-01
+91,Grand St & 14 St,1294,2023-09-01
+92,Grand St & Elizabeth St,1,2023-09-01
+93,Grant Ave & MLK Dr,44,2023-09-01
+94,Great Jones St,2,2023-09-01
+95,Greenwich St & Hubert St,7,2023-09-01
+96,Greenwich St & Rector St,1,2023-09-01
+97,Grove St PATH,4517,2023-09-01
+98,Hamilton Park,2083,2023-09-01
+99,Harborside,1517,2023-09-01
+100,Heights Elevator,388,2023-09-01
+101,Hilltop,442,2023-09-01
+102,Hoboken Ave at Monmouth St,1879,2023-09-01
+103,Hoboken Terminal - Hudson St & Hudson Pl,2601,2023-09-01
+104,Hoboken Terminal - River St & Hudson Pl,3953,2023-09-01
+105,Hudson St & 4 St,831,2023-09-01
+106,JC Medical Center,1074,2023-09-01
+107,Jackson Square,193,2023-09-01
+108,Jersey & 3rd,776,2023-09-01
+109,Jersey & 6th St,605,2023-09-01
+110,Journal Square,735,2023-09-01
+111,Kenmare St & Elizabeth St,1,2023-09-01
+112,Lafayette Park,691,2023-09-01
+113,Lafayette St & Jersey St,8,2023-09-01
+114,Lefferts Ave & Schenectady Ave,1,2023-09-01
+115,Leonard Gordon Park,431,2023-09-01
+116,Liberty Light Rail,1403,2023-09-01
+117,Liberty St & Broadway,2,2023-09-01
+118,Lincoln Park,404,2023-09-01
+119,Lispenard St & Broadway,1,2023-09-01
+120,Madison St & 1 St,1331,2023-09-01
+121,Madison St & 10 St,1116,2023-09-01
+122,Maiden Ln & Pearl St,4,2023-09-01
+123,Mama Johnson Field - 4 St & Jackson St,787,2023-09-01
+124,Manila & 1st,1212,2023-09-01
+125,Marin Light Rail,1692,2023-09-01
+126,Marshall St & 2 St,1197,2023-09-01
+127,McGinley Square,774,2023-09-01
+128,Mercer St & Bleecker St,1,2023-09-01
+129,Mercer St & Spring St,5,2023-09-01
+130,Monmouth and 6th,667,2023-09-01
+131,Montgomery St,684,2023-09-01
+132,Morris Canal,1130,2023-09-01
+133,Motorgate,1,2023-09-01
+134,Newark Ave,1188,2023-09-01
+135,Newport PATH,1518,2023-09-01
+136,Newport Pkwy,2226,2023-09-01
+137,Norfolk St & Broome St,1,2023-09-01
+138,North Moore St & Greenwich St,11,2023-09-01
+139,Oakland Ave,479,2023-09-01
+140,Pacific St & Nevins St,1,2023-09-01
+141,Paulus Hook,843,2023-09-01
+142,Pershing Field,626,2023-09-01
+143,Pioneer St & Richards St,1,2023-09-01
+144,River St & 1 St,936,2023-09-01
+145,River Ter & Warren St,5,2023-09-01
+146,Riverside Blvd & W 67 St,1,2023-09-01
+147,Riverview Park,630,2023-09-01
+148,Rivington St & Chrystie St,1,2023-09-01
+149,S 2 St & Kent Ave,1,2023-09-01
+150,S 3 St & Bedford Ave,1,2023-09-01
+151,Sands St Gate,1,2023-09-01
+152,South Waterfront Walkway - Sinatra Dr & 1 St,2852,2023-09-01
+153,Southwest Park - Jackson St & Observer Hwy,1269,2023-09-01
+154,Spring St & Hudson St,5,2023-09-01
+155,Spruce St & Gold St,1,2023-09-01
+156,St Marks Ave & Rochester Ave,1,2023-09-01
+157,Stevens - River Ter & 6 St,1503,2023-09-01
+158,Thompson St & Bleecker St,1,2023-09-01
+159,Union St,153,2023-09-01
+160,University Pl & E 14 St,1,2023-09-01
+161,Van Vorst Park,1040,2023-09-01
+162,Vesey Pl & River Terrace,19,2023-09-01
+163,Vesey St & Church St,5,2023-09-01
+164,W 116 St & Broadway,1,2023-09-01
+165,W 15 St & 6 Ave,1,2023-09-01
+166,W 180 St & Ft Washington Ave,1,2023-09-01
+167,W 30 St & 10 Ave,3,2023-09-01
+168,W 34 St & 11 Ave,2,2023-09-01
+169,W 34 St & Hudson Blvd E,1,2023-09-01
+170,W 41 St & 8 Ave,3,2023-09-01
+171,W 44 St & 5 Ave,3,2023-09-01
+172,W 51 St & 6 Ave,1,2023-09-01
+173,W 52 St & 5 Ave,2,2023-09-01
+174,W 53 St & 10 Ave,1,2023-09-01
+175,W 54 St & 6 Ave,2,2023-09-01
+176,W 55 St & 6 Ave,1,2023-09-01
+177,W 56 St & 8 Ave,1,2023-09-01
+178,Warren St,1395,2023-09-01
+179,Washington St,1567,2023-09-01
+180,Washington St & Barrow St,1,2023-09-01
+181,Washington St & Gansevoort St,3,2023-09-01
+182,Washington St & Laight St,2,2023-09-01
+183,Water St & Gouverneur Ln,2,2023-09-01
+184,West End Ave & W 60 St,1,2023-09-01
+185,West St & Chambers St,2,2023-09-01
+186,West St & Liberty St,4,2023-09-01
+187,William St & Pine St,2,2023-09-01
+188,Willow Ave & 12 St,1139,2023-09-01
+189,York St & Marin Blvd,399,2023-09-01
